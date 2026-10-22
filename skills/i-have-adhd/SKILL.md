@@ -3,6 +3,10 @@ name: i-have-adhd
 description: "Use this skill when the user asks for ADHD-friendly output, invokes /i-have-adhd, or says the reader has ADHD."
 triggers:
   - user
+license: MIT
+metadata:
+  tags: "ADHD, Output Style, Productivity, Formatting"
+  category: "productivity"
 ---
 
 # i-have-adhd
