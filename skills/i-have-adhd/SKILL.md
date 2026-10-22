@@ -1,12 +1,8 @@
 ---
 name: i-have-adhd
-description: 'Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate state across turns, suppress tangents, give specific time estimates, make wins visible. Invoke with /i-have-adhd; stays on until "stop adhd mode".'
+description: "Use this skill when the user asks for ADHD-friendly output, invokes /i-have-adhd, or says the reader has ADHD."
 triggers:
   - user
-license: MIT
-metadata:
-  tags: "ADHD, Output Style, Productivity, Formatting"
-  category: "productivity"
 ---
 
 # i-have-adhd
